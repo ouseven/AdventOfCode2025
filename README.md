@@ -1,8 +1,10 @@
 # Advent of Code 2025
 
 This repository contains my solutions to [Advent of Code 2025](https://adventofcode.com/) problems.
+
 The individual solutions are written in Python programming language. (Hey, it may be easier this way, but I don't mind.) 
-Some solutions don't have two different solutions, just the second or first part. This will (probably) be fixed in the future.
+
+Some solutions don't have two different parts, just the second or the first one. This will (probably) be fixed in the future.
 ## Status of solved problems
 
 Day No. | Part 1 | Part 2
