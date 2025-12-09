@@ -4,6 +4,14 @@ def area(point1,point2):
     return (abs(x1-x2)+1)*(abs(y1-y2)+1)
 
 
+
+
+
+
+
+
+
+
 file=open("input.txt")
 
 points=[]
