@@ -17,7 +17,7 @@ Day No. | Part 1 | Part 2
 6 | [Solved!](https://github.com/ouseven/AdventOfCode2025/blob/main/AoC6/AoC6.py) | [Solved!](https://github.com/ouseven/AdventOfCode2025/blob/main/AoC6/Aoc62.py)
 7 | [Solved!](https://github.com/ouseven/AdventOfCode2025/blob/main/AoC7/AoC7.py) | [Solved!](https://github.com/ouseven/AdventOfCode2025/blob/main/AoC7/AoC7.py)
 8 | [Solved!](https://github.com/ouseven/AdventOfCode2025/blob/main/AoC8/AoC8.py) | [Solved!](https://github.com/ouseven/AdventOfCode2025/blob/main/AoC8/AoC8.py)
-9 | N/A | N/A
+9 | [Solved!](https://github.com/ouseven/AdventOfCode2025/blob/main/AoC9/AoC9_1.py) | Not yet!
 10 | N/A | N/A
 11 | N/A | N/A
 12 | N/A | N/A
